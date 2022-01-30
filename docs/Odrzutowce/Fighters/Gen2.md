@@ -4,7 +4,7 @@ title: Gen2
 nav_order: 2
 description: "sth about jets"
 parent: Fighters
-grandparent: Odrzutowce
+grand_parent: Odrzutowce
 ---
 
 # Gen2
