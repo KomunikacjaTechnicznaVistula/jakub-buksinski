@@ -9,3 +9,4 @@ parent: Odrzutowce
 ---
 
 # Fighters
+{: .no_toc}
