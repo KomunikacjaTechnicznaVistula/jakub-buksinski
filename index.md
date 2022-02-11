@@ -6,4 +6,4 @@ description: "Welcome to my GitHub Repository"
 permalink: /
 ---
 
-This is the beginning
+This is the beginning of it all
