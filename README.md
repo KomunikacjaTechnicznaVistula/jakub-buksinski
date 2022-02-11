@@ -1,2 +1,2 @@
-# jakub-buksinski
-my diagram workshop
+# RecGuitar
+How to record electric guitar on a home computer
