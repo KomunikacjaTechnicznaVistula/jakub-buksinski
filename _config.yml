@@ -5,7 +5,7 @@ remote_theme: KomunikacjaTechnicznaVistula/just-the-docs
 
 color_scheme: test_jbuk
 
-# logo: "/assets/images/vumeter1.png"
+logo: "/assets/images/vumeter1.png"
 
 aux_links:
   "Source repository on GitHub":
