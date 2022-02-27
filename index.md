@@ -10,7 +10,7 @@ permalink: /
 
 # **1. Introduction**
 
-This  guide aims to provide general advice for musicians who want to record electric guitar or bass tracks on their computers without the need for professional recording studio.
+This guide aims to provide general advice for musicians who want to record electric guitar or bass tracks on their computers without the need for professional recording studio.
 
 It presents an easy way of setting up your gear so you can have it ready for recording ad hoc, whenever it's to catch a quick idea, sketch a song or save a riff.
 
