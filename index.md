@@ -18,6 +18,6 @@ It presents an easy way of setting up your gear so you can have it ready for rec
 
 To simplify the process, the instruction focuses exclusively on recording instruments directly to computer, without the need for a guitar/bass amplifier. Thus, microphone setup for recording is not discussed here.
 
-Rest assured, using this method doesn’t mean giving up on functionality.  The idea is to enable you to record, mix and produce instrument tracks, to what extent - depends largely on the software you choose for it.
+Rest assured, using this method doesn’t mean giving up on functionality.  The idea is to enable you to record, mix and produce instrument tracks. How detailed or complex your recording will be depends largely on the software you choose for the job.
 
 > The example provided in this guide is based on Windows 10 platform, but similar steps apply to iOS and other operating systems.
