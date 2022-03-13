@@ -1,1 +1,0 @@
-https://github.com/KomunikacjaTechnicznaVistula/just-the-docs/blob/master/_sass/color_schemes/test_jbuk.scss
