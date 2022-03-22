@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\jbuks\Documents\GitHub\jakub-buksinski\temp\topics?><?workdir-uri file:/C:/Users/jbuks/Documents/GitHub/jakub-buksinski/temp/topics/?><?path2project ..\?><?path2project-uri ../?><?path2rootmap-uri ../?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c_2nd_topic_concept" specializations="@props/deliveryTarget" xtrc="concept:1;3:35" xtrf="file:/C:/Users/jbuks/Documents/GitHub/jakub-buksinski/topics/c_mustang.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Users/jbuks/Documents/GitHub/jakub-buksinski/topics/c_mustang.dita">Fender Mustang</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:16" xtrf="file:/C:/Users/jbuks/Documents/GitHub/jakub-buksinski/topics/c_mustang.dita">Classic Vibe 60s Mustang</shortdesc><prolog class="- topic/prolog "><author class="- topic/author " xtrc="author:1;6:17" xtrf="file:/C:/Users/jbuks/Documents/GitHub/jakub-buksinski/my_first_map.ditamap">JB</author></prolog>
+    <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;6:14" xtrf="file:/C:/Users/jbuks/Documents/GitHub/jakub-buksinski/topics/c_mustang.dita">
+        <p class="- topic/p " xtrc="p:1;7:12" xtrf="file:/C:/Users/jbuks/Documents/GitHub/jakub-buksinski/topics/c_mustang.dita"><image class="- topic/image " href="../images/60smustangvw.jpg" id="image_eqf_bjx_ysb" placement="inline" scale="30" xtrc="image:1;7:88" xtrf="file:/C:/Users/jbuks/Documents/GitHub/jakub-buksinski/topics/c_mustang.dita"/></p>
+        <p class="- topic/p " xtrc="p:2;8:12" xtrf="file:/C:/Users/jbuks/Documents/GitHub/jakub-buksinski/topics/c_mustang.dita">While small in stature, the Classic Vibe ‘60s Mustang® packs a punch of incredible tone
+            courtesy of the dual Fender-Designed alnico single-coil pickups. Small hands will
+            appreciate the short 24” scale length and slim, comfortable “C”-shaped neck profile with
+            an easy-playing 9.5”-radius fingerboard and narrow-tall frets. This Mustang is faithful
+            to the original with a vintage-style tremolo system for expressive string bending
+            effects and floating bridge with barrel saddles for solid string stability. This
+            throwback Squier model also features 1960s-inspired headstock markings, rich-looking
+            nickel-plated hardware and a slick vintage-tint gloss neck finish for an old-school
+            vibe.</p>
+        <p class="- topic/p " xtrc="p:3;17:12" xtrf="file:/C:/Users/jbuks/Documents/GitHub/jakub-buksinski/topics/c_mustang.dita"><b class="+ topic/ph hi-d/b " xtrc="b:1;17:15" xtrf="file:/C:/Users/jbuks/Documents/GitHub/jakub-buksinski/topics/c_mustang.dita">FEATURES</b><ul class="- topic/ul " id="ul_avk_v3x_ysb" xtrc="ul:1;17:51" xtrf="file:/C:/Users/jbuks/Documents/GitHub/jakub-buksinski/topics/c_mustang.dita">
+                <li class="- topic/li " xtrc="li:1;18:21" xtrf="file:/C:/Users/jbuks/Documents/GitHub/jakub-buksinski/topics/c_mustang.dita">100% Designed by Fender</li>
+                <li class="- topic/li " xtrc="li:2;19:21" xtrf="file:/C:/Users/jbuks/Documents/GitHub/jakub-buksinski/topics/c_mustang.dita">Inspired by 1960s-era Mustang models</li>
+                <li class="- topic/li " xtrc="li:3;20:21" xtrf="file:/C:/Users/jbuks/Documents/GitHub/jakub-buksinski/topics/c_mustang.dita">Fender-Designed alnico pickups</li>
+                <li class="- topic/li " xtrc="li:4;21:21" xtrf="file:/C:/Users/jbuks/Documents/GitHub/jakub-buksinski/topics/c_mustang.dita">Vintage-tint gloss neck finish</li>
+                <li class="- topic/li " xtrc="li:5;22:21" xtrf="file:/C:/Users/jbuks/Documents/GitHub/jakub-buksinski/topics/c_mustang.dita">Nickel-plated hardware</li>
+            </ul></p>
+    </conbody>
+</concept>

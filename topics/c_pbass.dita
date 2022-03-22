@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_2nd_topic_concept">
+    <title>Fender Precision Bass</title>
+    <shortdesc>Squier Classic Vibe 70s P-Bass</shortdesc>
+    <conbody>
+        <p><image href="../images/70spbassfsrsurf.jpg" id="image_zgp_pgx_ysb"/></p>
+        <p>Classic Vibe ‘70s Precision Bass embodies the aesthetics of the original and produces
+            massive tone courtesy of its Fender-Designed alnico split-coil pickup. Player-friendly
+            features include a slim, comfortable “C”-shaped neck profile with an easy-playing
+            9.5”-radius fingerboard and narrow-tall frets as well as a vintage-style bridge with
+            threaded saddles. This throwback Squier model also features 1970s-inspired headstock
+            markings, rich-looking nickel-plated hardware and a slick vintage-tint gloss neck finish
+            for an old-school vibe.</p>
+        <p><b>FEATURES</b><ul id="ul_drg_ygx_ysb">
+                <li>100% designed by Fender</li>
+                <li>Inspired by 1970s-era Precision Bass Models</li>
+                <li>Fender-Designed alnico pickups</li>
+                <li>Vintage-tint gloss neck finish</li>
+                <li>Nickel-plated hardware</li>
+            </ul></p>
+    </conbody>
+</concept>

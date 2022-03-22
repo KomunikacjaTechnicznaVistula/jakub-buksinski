@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_2nd_topic_concept">
+    <title>Fender Jazzmaster</title>
+    <shortdesc>Vintage Modified Jazzmaster</shortdesc>
+    <conbody>
+        <p><image href="../images/jazzmaster_sb_mp.jpg" id="image_pjb_yqq_ysb"/></p>
+        <p>Jazzmaster Vintage Modified with present-day touches including full, clear Duncan
+            Designed pickups and a modern fingerboard radius, dual-circuit switching and controls,
+            floating-vibrato bridge</p>
+        <p><b>FEATURES</b><ul id="ul_xs3_3fq_ysb">
+                <li>a maple neck with vintage-tint gloss finish, 9.5"-radius rosewood fingerboard
+                    with 21 medium jumbo frets and parchment dot inlays, </li>
+                <li>tortoiseshell (Three-Color Sunburst and Olympic White models) and
+                    white-black-white pickguards (Candy Apple Red and Sonic Blue models), </li>
+                <li>Jazzmaster single-coil pickups, circuit selector switch and pickup selector
+                    toggle switch, </li>
+                <li>white Stratocaster-style control knobs (lead circuit) and black disc knobs
+                    (rhythm circuit),</li>
+                <li>vintage-style bridge and non-locking floating vibrato with vintage-style tremolo
+                    arm, </li>
+                <li>vintage-style chrome tuners and chrome hardware.</li>
+            </ul></p>
+    </conbody>
+</concept>

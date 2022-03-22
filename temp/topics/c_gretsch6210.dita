@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\jbuks\Documents\GitHub\jakub-buksinski\temp\topics?><?workdir-uri file:/C:/Users/jbuks/Documents/GitHub/jakub-buksinski/temp/topics/?><?path2project ..\?><?path2project-uri ../?><?path2rootmap-uri ../?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c_2nd_topic_concept" specializations="@props/deliveryTarget" xtrc="concept:1;3:35" xtrf="file:/C:/Users/jbuks/Documents/GitHub/jakub-buksinski/topics/c_gretsch6210.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Users/jbuks/Documents/GitHub/jakub-buksinski/topics/c_gretsch6210.dita">Gretsch 6120</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:16" xtrf="file:/C:/Users/jbuks/Documents/GitHub/jakub-buksinski/topics/c_gretsch6210.dita">American Original 60s Strat</shortdesc><prolog class="- topic/prolog "><author class="- topic/author " xtrc="author:1;6:17" xtrf="file:/C:/Users/jbuks/Documents/GitHub/jakub-buksinski/my_first_map.ditamap">JB</author></prolog>
+    <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;6:14" xtrf="file:/C:/Users/jbuks/Documents/GitHub/jakub-buksinski/topics/c_gretsch6210.dita">
+        <p class="- topic/p " xtrc="p:1;7:12" xtrf="file:/C:/Users/jbuks/Documents/GitHub/jakub-buksinski/topics/c_gretsch6210.dita"><image class="- topic/image " href="../images/6120bsetzer.png" id="image_azw_4kx_ysb" placement="inline" scale="50" xtrc="image:1;7:87" xtrf="file:/C:/Users/jbuks/Documents/GitHub/jakub-buksinski/topics/c_gretsch6210.dita"/></p>
+        <p class="- topic/p " xtrc="p:2;8:12" xtrf="file:/C:/Users/jbuks/Documents/GitHub/jakub-buksinski/topics/c_gretsch6210.dita">G6120T-59 Vintage Select Edition '59 Chet Atkins® Hollow Body with Bigsby® revisits this
+            historic model. A pair of the ever popular TV Jones® Classic pickups creates
+            high-quality tone with plenty of dynamics and articulation on tap. Traditional Gretsch
+            controls, including dedicated volume controls for both the neck and bridge pickups,
+            master volume and the classic three-position tone switch, allow you to blend and shape
+            the pickups’ sound, creating countless tonal variations. The new Gretsch “Squeezebox”
+            paper-in-oil capacitors provide an incredibly silky high end. The vintage “V”-shaped
+            maple neck bears a 12”-radius ebony fingerboard with 22 frets for a classic playing
+            experience that works with all musical styles. 1959 trestle bracing connects the top and
+            back of this guitar for authentic, snappy vintage tone. A pinned “rocking” bar bridge
+            reacts in tandem with the Bigsby B6CVT vibrato tailpiece for stable tuning while the
+            vintage-style genuine bone nut lets the strings slide freely without binding in the
+            slots.</p>
+    </conbody>
+</concept>

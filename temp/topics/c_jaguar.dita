@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\jbuks\Documents\GitHub\jakub-buksinski\temp\topics?><?workdir-uri file:/C:/Users/jbuks/Documents/GitHub/jakub-buksinski/temp/topics/?><?path2project ..\?><?path2project-uri ../?><?path2rootmap-uri ../?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c_2nd_topic_concept" specializations="@props/deliveryTarget" xtrc="concept:1;3:35" xtrf="file:/C:/Users/jbuks/Documents/GitHub/jakub-buksinski/topics/c_jaguar.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Users/jbuks/Documents/GitHub/jakub-buksinski/topics/c_jaguar.dita">Fender Jaguar</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:16" xtrf="file:/C:/Users/jbuks/Documents/GitHub/jakub-buksinski/topics/c_jaguar.dita">Vintage Modified Jaguar</shortdesc><prolog class="- topic/prolog "><author class="- topic/author " xtrc="author:1;6:17" xtrf="file:/C:/Users/jbuks/Documents/GitHub/jakub-buksinski/my_first_map.ditamap">JB</author></prolog>
+    <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;6:14" xtrf="file:/C:/Users/jbuks/Documents/GitHub/jakub-buksinski/topics/c_jaguar.dita">
+        <p class="- topic/p " xtrc="p:1;7:12" xtrf="file:/C:/Users/jbuks/Documents/GitHub/jakub-buksinski/topics/c_jaguar.dita"><image class="- topic/image " href="../images/jaguar70sblack.jpg" id="image_kgz_5vq_ysb" placement="inline" scale="30" xtrc="image:1;7:90" xtrf="file:/C:/Users/jbuks/Documents/GitHub/jakub-buksinski/topics/c_jaguar.dita"/></p>
+        <p class="- topic/p " xtrc="p:2;8:12" xtrf="file:/C:/Users/jbuks/Documents/GitHub/jakub-buksinski/topics/c_jaguar.dita">The Jaguar has long enjoyed a cult-like status in Fender's lineup. Squier Vintage
+            Modified Jaguar solidbody electric guitar gives you an authentically styled Jag:
+            comfortable and lightweight offset-waist body, easy-playing 24" scale, dual-circuit
+            switching and controls, floating-vibrato bridge and eye-catching classic finish.</p>
+        <p class="- topic/p " xtrc="p:3;12:12" xtrf="file:/C:/Users/jbuks/Documents/GitHub/jakub-buksinski/topics/c_jaguar.dita"><b class="+ topic/ph hi-d/b " xtrc="b:1;12:15" xtrf="file:/C:/Users/jbuks/Documents/GitHub/jakub-buksinski/topics/c_jaguar.dita">FEATURES</b><ul class="- topic/ul " id="ul_kk1_jwq_ysb" xtrc="ul:1;12:51" xtrf="file:/C:/Users/jbuks/Documents/GitHub/jakub-buksinski/topics/c_jaguar.dita">
+                <li class="- topic/li " xtrc="li:1;13:21" xtrf="file:/C:/Users/jbuks/Documents/GitHub/jakub-buksinski/topics/c_jaguar.dita">Lightweight basswood offset body and short scale length give you enhanced
+                    playability</li>
+                <li class="- topic/li " xtrc="li:2;15:21" xtrf="file:/C:/Users/jbuks/Documents/GitHub/jakub-buksinski/topics/c_jaguar.dita">Comfortable Vintage Modified C-profile maple neck with 9.5"-radius rosewood
+                    fingerboard</li>
+                <li class="- topic/li " xtrc="li:3;17:21" xtrf="file:/C:/Users/jbuks/Documents/GitHub/jakub-buksinski/topics/c_jaguar.dita">Medium-jumbo frets, 24" scale length; 1.65" nut width</li>
+                <li class="- topic/li " xtrc="li:4;18:21" xtrf="file:/C:/Users/jbuks/Documents/GitHub/jakub-buksinski/topics/c_jaguar.dita">Chrome hardware; vintage-style tuning keys</li>
+                <li class="- topic/li " xtrc="li:5;19:21" xtrf="file:/C:/Users/jbuks/Documents/GitHub/jakub-buksinski/topics/c_jaguar.dita">Adjustable chrome bridge; vintage-style non-locking floating vibrato</li>
+            </ul></p>
+    </conbody>
+</concept>
