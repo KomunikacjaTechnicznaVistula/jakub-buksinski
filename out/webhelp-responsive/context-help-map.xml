@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="c_2nd_topic_concept" path="topics/c_strat.html"/>
+   <appContext helpID="c_2nd_topic_concept" path="topics/c_tele.html"/>
+   <appContext helpID="c_2nd_topic_concept" path="topics/c_jazzmaster.html"/>
+   <appContext helpID="c_2nd_topic_concept" path="topics/c_jaguar.html"/>
+   <appContext helpID="c_2nd_topic_concept" path="topics/c_mustang.html"/>
+   <appContext helpID="c_2nd_topic_concept" path="topics/c_pbass.html"/>
+   <appContext helpID="c_2nd_topic_concept" path="topics/c_jazzbassfl.html"/>
+   <appContext helpID="c_2nd_topic_concept" path="topics/c_lespaul.html"/>
+   <appContext helpID="c_2nd_topic_concept" path="topics/c_sg.html"/>
+   <appContext helpID="c_2nd_topic_concept" path="topics/c_gretsch6210.html"/>
+</map>
