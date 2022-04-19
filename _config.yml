@@ -5,6 +5,10 @@ remote_theme: KomunikacjaTechnicznaVistula/just-the-docs
 
 color_scheme: test_jbuk
 
+{% if site.favicon != nil %}
+    <link rel="shortcut icon" href="{{ site.favicon | absolute_url }}">
+  {% endif %}
+
 #logo: "/assets/images/vumeter1.png"
 
 aux_links:
