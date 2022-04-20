@@ -1,10 +1,11 @@
 ---
 layout: default
 title: Glossary
-nav_order: 5
+nav_order: 4
+description: "Useful terms"
 ---
 
-## **5. Glossary**
+## **Glossary**
 
 **Amp modeling** - the process of emulating a physical guitar amplifier and applying it to the signal in order to recreate the sound of a specific amplifier model. Done by digital signal processing and used in guitar software.
 
