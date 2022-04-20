@@ -8,7 +8,7 @@ permalink: /
 
 ![guitar closeup](/assets/images/SAM_9005.png)
 
-# **1. Introduction**
+## **1. Introduction**
 
 This guide aims to provide general advice for musicians who want to record electric guitar or bass tracks on their computers without the need for professional recording studio.
 

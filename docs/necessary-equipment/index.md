@@ -7,3 +7,5 @@ has_children: true
 ---
 
 ## **2. Necessary equipment**
+
+Fun!
