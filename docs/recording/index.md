@@ -20,5 +20,5 @@ On a computer:
 
 The following section is based on specific guitar recording software. There are many different options, both paid and freeware.
 
-* Amplitube 4 is used to demonstrate how to use a VST-plug in.  
-* Studio One 5 is used as an example of a DAW.
+* IK Multimedia AmpliTube 4 is used to demonstrate how to use a VST-plug in.  
+* PreSonus Studio One 5 is used as an example of a DAW.

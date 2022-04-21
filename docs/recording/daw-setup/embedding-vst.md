@@ -33,5 +33,5 @@ You can see the embedded VST for each track in Console view
 
 Your VST will pop up in a new window. Set it up for each track
 
- ![Studio One 5 - Amplitube 4](../../../assets/images/so5_14_a4.png)
+ ![Studio One 5 - AmpliTube 4](../../../assets/images/so5_14_a4.png)
 
