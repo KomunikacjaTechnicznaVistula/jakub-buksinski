@@ -6,7 +6,7 @@ description: "A guide for recording electric guitar on a computer"
 permalink: /
 ---
 
-![guitar closeup](/assets/images/SAM_9005.png)
+[![guitar closeup](/assets/images/SAM_9005.png)](/assets/images/SAM_9005.JPG)
 
 # **Introduction**
 

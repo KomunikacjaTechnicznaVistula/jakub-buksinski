@@ -11,47 +11,47 @@ grand_parent: Recording
 
 Amp section. Similarly to the effect section, you can manipulate knobs and switches to change the sound. One amplifier for Amp A and one for Amp B. Bass amplifiers are also available
 
- ![AmpliTube4 - getting started](../../../assets/images/a4_08_ampmodel.png)
+ [![AmpliTube4 - getting started](../../../assets/images/a4_08_ampmodel.png)](../../../assets/images/a4_08_ampmodel.jpg)
 
 Some amp models let you choose different pre-amp, equalization and power amp modelling
 
- ![AmpliTube4 - getting started](../../../assets/images/a4_09_ampmodel2.png)
+ [![AmpliTube4 - getting started](../../../assets/images/a4_09_ampmodel2.png)](../../../assets/images/a4_09_ampmodel2.jpg)
 
 Cab section. This is where the program shines. 
 You can pick the cabinet model
 
- ![AmpliTube4 - getting started](../../../assets/images/a4_10_cabmodel.png)
+ [![AmpliTube4 - getting started](../../../assets/images/a4_10_cabmodel.png)](../../../assets/images/a4_10_cabmodel.jpg)
 
 It also lets you pick individual speakers to be placed in the cabinet – you can have four different speakers in one cab if you wish!
 
- ![AmpliTube4 - getting started](../../../assets/images/a4_11_speakers.png)
+ [![AmpliTube4 - getting started](../../../assets/images/a4_11_speakers.png)](../../../assets/images/a4_11_speakers.jpg)
 
 You also decide what microphones you want for your virtual cab and how they are positioned in relation to the speaker cones
 
- ![AmpliTube4 - getting started](../../../assets/images/a4_12_mics.png)
+ [![AmpliTube4 - getting started](../../../assets/images/a4_12_mics.png)](../../../assets/images/a4_12_mics.jpg)
 
 You can also pick the type of recording room and the type and positioning of the room microphones
 
- ![AmpliTube4 - getting started](../../../assets/images/a4_13_room.png)
+ [![AmpliTube4 - getting started](../../../assets/images/a4_13_room.png)](../../../assets/images/a4_13_room.jpg)
 
 Plus, there is a separate mixer section for each microphone
 
- ![AmpliTube4 - getting started](../../../assets/images/a4_14_mixer.png)
+ [![AmpliTube4 - getting started](../../../assets/images/a4_14_mixer.png)](../../../assets/images/a4_14_mixer.jpg)
 
 I have to admit the cab section was the factor that convinced me to choose it over Positive Grid’s BIAS Amp 2 and FX 2 bundle and buy it
 
 Other sections of the signal path are:
 Insert A and Insert B which are placed between amp and cabinet to simulate an effect loop
 
- ![AmpliTube4 - getting started](../../../assets/images/a4_15_fxloop.png)
+ [![AmpliTube4 - getting started](../../../assets/images/a4_15_fxloop.png)](../../../assets/images/a4_15_fxloop.jpg)
 
 Rack A and Rack B placed after cabinets and simulating rack units
 
- ![AmpliTube4 - getting started](../../../assets/images/a4_16_rack.png)
+ [![AmpliTube4 - getting started](../../../assets/images/a4_16_rack.png)](../../../assets/images/a4_16_rack.jpg)
 
 and the tuner 
 
- ![AmpliTube4 - getting started](../../../assets/images/a4_17_tuner.png)
+ [![AmpliTube4 - getting started](../../../assets/images/a4_17_tuner.png)](../../../assets/images/a4_17_tuner.jpg)
 
 
 

@@ -12,4 +12,4 @@ description: "VST plug-in setup"
 
 AmpliTube 4 opens only in a window mode, fullscreen is not available. The window can’t be maximized or even adjusted, no matter what version of the program you have. A monitor with a large screen is recommended.
 
-![AmpliTube4 - getting started](../../../assets/images/a4_01_welcome.png)
+[![AmpliTube4 - getting started](../../../assets/images/a4_01_welcome.png)](../../../assets/images/a4_01_welcome.jpg)

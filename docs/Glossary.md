@@ -43,6 +43,8 @@ description: "Useful terms"
 
 **Signal path** - the route a particular signal takes through a chain of electronic components on the way to its destination. In audio, it’s usually about connecting different pieces of equipment together and routing signals through them.
 
+**Snap to grid** - an option in music production software that aligns your tracks to a predefined time measure or 'grid' when you move them across the time axis of your audio project. 
+
 **Stompboxes** - also known as guitar effect pedals are foot operated boxes that provide sound effects and tone shaping for electric guitars.
 
 **USB 2.0/3.x (type A)** - common connector standard for computer devices.
