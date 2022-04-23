@@ -49,7 +49,7 @@ Each track has a signal level monitor and a clipping indicator – it’s the re
 
  Additionally, every audio interface has its own volume regulations. I use Focusrite Scarlett 2i2 3gen which has separate volume regulators for each input
 
- [![AmpliTube4 - getting started](../../assets/images/focusrite1.png)](../../assets/images/focusrite1.jpg)
+ [![AmpliTube4 - getting started](../../assets/images/focusrite1pp.png)](../../assets/images/focusrite1.jpg)
 
  What's more, most stompbox or external effects that you include in the signal chain will have separate volume regulations
 
