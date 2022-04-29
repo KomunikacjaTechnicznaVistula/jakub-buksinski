@@ -21,7 +21,7 @@ description: "hardware for recording"
 
 5. **Cords and cables with proper plugs**. It depends on your audio setup, but generally:
     - guitar cables have 6.3mm Jack plugs
-    - cables connecting your computer or audio interface with studio monitors/audio reference system can have a single or double 6.3mm Jack or 3.5mm mini Jack plugs on the computer end, and single or double RCA/chinch plugs on the other end - depending on the sockets available in the audio unit. 
+    - cables connecting your computer or audio interface with studio monitors/audio reference system can have a single or double 6.3mm Jack or 3.5mm mini Jack plugs on the computer end, and single or double RCA/cinch plugs on the other end - depending on the sockets available in the audio unit. 
     - studio monitors use cables with 6.3mm Jack plugs
     - proprietary USB cables to connect your interface to computer should come with the device 
   

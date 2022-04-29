@@ -9,7 +9,7 @@ description: "software for recording"
 
 **VST plug-in**. It will allow you to model the guitar sounds in the way you want. Numerous free and paid software options are available on the market.
 
-**DAW workstation** (to record the guitar with your VST pug-ins embedded and to arrange your guitar tracks). You can pick from a great choice of industry standards, but be warned - they are pricey!
+**DAW workstation** You need it to record the guitar with the embedded VST pug-ins and to arrange your guitar tracks. You can pick from a great choice of industry standards, but be warned - they are pricey!
 
 #### Things to consider:
 
@@ -21,5 +21,5 @@ By design, this guide gives only a general overview of the type of software solu
 
 -  more complex DAWs enable you to use multiple VST plug-ins, provide advanced mixing options and process automation functions. It’s a whole universe to explore with a plethora of options, chances are you won’t need many of them – think and decide what really suits your purpose.
 
-In the past, audio latency was an issue but on modern computer configurations it shouldn’t be a problem anymore for some years now.
+In the past, audio latency was an issue but on modern computer configurations it shouldn’t be a problem anymore.
 
