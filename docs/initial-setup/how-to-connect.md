@@ -11,6 +11,7 @@ The signal chain is as follows:
 1. **Guitar is plugged into audio interface.**   
 2. **Audio interface is plugged into computer.**   
 3. **Audio interface is connected into studio monitors/audio reference system.** 
+  
    Don’t forget to switch the power on! Check the volume levels on your guitar, audio interface and audio playback equipment before starting. Start with low volume on the playback.
 
    Optionally, **you can add stompboxes into the signal chain, between guitar and the interface.** Signal deterioration is a slight concern, but you should be fine adding as many units as you would normally use in other guitar playing scenarios.
